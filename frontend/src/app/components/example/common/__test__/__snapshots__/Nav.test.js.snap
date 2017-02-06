@@ -1,0 +1,55 @@
+exports[`NAV component renders without errors 1`] = `
+<div>
+  <a
+    onClick={[Function]}
+    style={Object {}}>
+    <h1>
+      Flask React Starter Kit(dockerized)
+    </h1>
+  </a>
+  <ul>
+    <li>
+      <a
+        onClick={[Function]}
+        style={Object {}}>
+        Home
+      </a>
+    </li>
+    <li>
+      <a
+        onClick={[Function]}
+        style={Object {}}>
+        Blog
+      </a>
+    </li>
+    <li>
+      <a
+        onClick={[Function]}
+        style={Object {}}>
+        Media
+      </a>
+    </li>
+    <li>
+      <a
+        onClick={[Function]}
+        style={Object {}}>
+        Store
+      </a>
+    </li>
+    <li>
+      <a
+        onClick={[Function]}
+        style={Object {}}>
+        About
+      </a>
+    </li>
+    <li>
+      <a
+        onClick={[Function]}
+        style={Object {}}>
+        Contact
+      </a>
+    </li>
+  </ul>
+</div>
+`;
